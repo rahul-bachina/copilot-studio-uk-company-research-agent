@@ -30,6 +30,12 @@ See [Installation](docs/installation.md) for the full procedure.
 
 The agent does not provide personalised advice, assign a rating, update a watchlist or portfolio, communicate externally, or execute transactions. It generates Word/PDF output only after displaying the complete draft and receiving the exact phrase `APPROVE EXPORT`.
 
+## Need help adapting this agent?
+
+This repository is a free MIT-licensed starting point. For help adapting it to your organisation—including solution architecture, Copilot Studio implementation, custom skills and tools, Power Platform or Azure integration, governance, evaluation, deployment, and support—contact **Rahul Bachina** through the [GitHub profile](https://github.com/rahul-bachina).
+
+Please do not include credentials, personal data, client information, or other confidential material in a public GitHub issue.
+
 ## Licence
 
 Released under the [MIT License](LICENSE). Microsoft services and third-party data remain subject to their own terms and licences.
